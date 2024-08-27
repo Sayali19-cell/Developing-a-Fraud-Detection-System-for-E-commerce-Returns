@@ -1,0 +1,2 @@
+# Developing-a-Fraud-Detection-System-for-E-commerce-Returns
+E-commerce returns are a significant aspect of online retail, but they also present opportunities for fraud. Fraudulent returns can lead to substantial financial losses and undermine the integrity of the return process. Our project aimed to address this challenge by building a robust fraud detection system using machine learning and data analytics.
